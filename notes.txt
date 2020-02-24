@@ -1,0 +1,16 @@
+//Why type script? 
+
+
+
+// Installing TypeScript
+
+
+// Commands for typescript
+
+
+
+//Core Types
+
+
+// Watching a file
+
